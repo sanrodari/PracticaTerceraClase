@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticaTerceraClase</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="actividad_imperativa">Actividad Imperativa</string>
+    <string name="actividad_declarativa">Actividad Declarativa</string>
+    <string name="title_activity_diferente_paquete">Actividad DiferentePaquete</string>
+    <string name="title_activity_iniciar_implicita">Actividad IniciarImplicita</string>
+    <string name="texto_boton_implicita">Iniciar Actividad de forma Implícita</string>
+    <string name="title_activity_actividad_receptora_implicita">ActividadReceptoraImplicita</string>
+    <string name="title_activity_activididad_iniciar_explicita">ActivididadIniciarExplicita</string>
+    <string name="boton_explicita">Iniciar Actividad de forma Explícita</string>
+    <string name="title_activity_actividad_retorna_informacion">ActividadRetornaInformacion</string>
+    <string name="selecciona_contacto">Seleccionar contacto</string>
+
+</resources>
